@@ -1,0 +1,74 @@
+{
+  "renfe2": {
+    "sounds": [
+      {
+        "name": "renmin_sounds:renfe_2",
+        "stream": false
+      }
+    ]
+  },
+  "renfe3": {
+    "sounds": [
+      {
+        "name": "renmin_sounds:renfe_3",
+        "stream": false
+      }
+    ]
+  },
+  "renfe4": {
+    "sounds": [
+      {
+        "name": "renmin_sounds:renfe_4",
+        "stream": false
+      }
+    ]
+  },
+  "renfe5": {
+    "sounds": [
+      {
+        "name": "renmin_sounds:renfe_5",
+        "stream": false
+      }
+    ]
+  },
+  "renfe6": {
+    "sounds": [
+      {
+        "name": "renmin_sounds:renfe_6",
+        "stream": false
+      }
+    ]
+  },
+  "renfe7-navidad": {
+    "sounds": [
+      {
+        "name": "renmin_sounds:renfe_7_-_navidad",
+        "stream": false
+      }
+    ]
+  },
+  "renfe8-navidad2": {
+    "sounds": [
+      {
+        "name": "renmin_sounds:renfe_8_-_navidad_2",
+        "stream": false
+      }
+    ]
+  },
+  "renfe9": {
+    "sounds": [
+      {
+        "name": "renmin_sounds:renfe_9",
+        "stream": false
+      }
+    ]
+  },
+  "renfe1": {
+    "sounds": [
+      {
+        "name": "renmin_sounds:renfe_1",
+        "stream": false
+      }
+    ]
+  }
+}
